@@ -1,4 +1,4 @@
-package main
+package dateTimePicker
 
 import (
 	"fmt"
